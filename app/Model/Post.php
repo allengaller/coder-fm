@@ -1,0 +1,4 @@
+<?
+class Post extends AppModel {
+	
+}
